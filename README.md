@@ -1,2 +1,2 @@
-hashlama toolu
-Coder By Burak Tyce
+# hash
+hash toolu
